@@ -1,0 +1,5 @@
+minigrep/minigrep
+hexdump/hexdump
+csv2json/csv2json
+examples/*.json
+*.o
